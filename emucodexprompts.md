@@ -1,0 +1,3 @@
+OpenAI Codex is an artificial intelligence model developed by OpenAI. It parses natural language and generates code in response. It powers GitHub Copilot, a programming autocompletion tool for select IDEs, like Visual Studio Code and Neovim.[1] Codex is a descendant of OpenAI's GPT-3 model, fine-tuned for use in programming applications.
+
+OpenAI released an API for Codex in closed beta.[1] In March 2023, OpenAI shut down access to Codex.[2] Due to public appeals from researchers, OpenAI reversed course.[3] The Codex model can still be used by researchers of the OpenAI Research Access Program.[4] This is the fully completed version called VM/CODEX1.0 
