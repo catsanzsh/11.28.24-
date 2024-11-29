@@ -99,7 +99,5 @@ This project is licensed under the Apache  License.
 Contact
 For support or inquiries, please reach out to:
 
-Email: support@project112824.com
-Website: www.project112824.com
-GitHub Issues: Issue Tracker
+ 
 Project 11.28.24 - Where the future of technology meets the legacy of innovation.
